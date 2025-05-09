@@ -44,6 +44,18 @@ org.json (for parsing JSON)
 --------
 
 
+🛡️ Error Handling
+
+- Handles invalid inputs (like text instead of a number).
+
+- Catches failed API calls or network issues.
+
+- Prompts the user again if incorrect data is entered.
+
+
+--------
+
+
 🚀 How to Run
 
 ⚠️ Eclipse is required unless you're using another IDE or compiling via terminal.
