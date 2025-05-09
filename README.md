@@ -4,6 +4,7 @@
 --------
 
 💡 Description
+
 A simple Java console application that converts currencies using real-time exchange rates from CurrencyLayer. It prompts the user to enter the source currency, target currency, and amount, then displays the converted amount using live data.
 
 --------
@@ -30,6 +31,7 @@ Libraries used.
 
 
 🛠️ Technologies Used
+
 Java
 
 Maven
@@ -43,6 +45,7 @@ org.json (for parsing JSON)
 
 
 🚀 How to Run
+
 ⚠️ Eclipse is required unless you're using another IDE or compiling via terminal.
 
 Clone the repository: git clone https://github.com/rajaashb/Currency-Converter.git
